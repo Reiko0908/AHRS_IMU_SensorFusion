@@ -1,2 +1,2 @@
-# AHRS_IMU_SensorFusion
-This repository focuses on the sensor fusion algorithms combining data from IMU sensors to estimate attitude and heading using AHRS techniques. It leverages advanced filtering methods like Extended Kalman Filter and Madgwick Orientation Filter for accurate orientation estimation and real-time motion tracking.
+# ARM_ROBOT_MANIPULATION
+This repository focuses on the principles and techniques behind robotic arm motion, emphasizing matrix operations and the Denavit–Hartenberg (DH) method. It provides an overview of how matrix transformations enable precise control of robotic joints and links, along with practical examples and real-world applications. Ideal for robotics enthusiasts and learners exploring kinematics and control systems.
